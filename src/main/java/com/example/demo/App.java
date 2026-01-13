@@ -38,3 +38,5 @@ public class App
         System.out.println(s1);
     }
 }
+
+//we have persist(), get(), merge(), remove() to follow JPA standardization
